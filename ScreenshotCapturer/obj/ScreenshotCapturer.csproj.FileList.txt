@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ScreenshotCapturer.Form1.resources
+obj\Debug\ScreenshotCapturer.Properties.Resources.resources
+obj\Debug\ScreenshotCapturer.csproj.GenerateResource.Cache
+bin\Debug\ScreenshotCapturer.exe
+bin\Debug\ScreenshotCapturer.pdb
+obj\Debug\ScreenshotCapturer.exe
+obj\Debug\ScreenshotCapturer.pdb

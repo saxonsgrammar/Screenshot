@@ -1,0 +1,28 @@
+C:\Users\armin\Downloads\Screenshot Capturer\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.exe
+C:\Users\armin\Downloads\Screenshot Capturer\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.pdb
+C:\Users\armin\Downloads\Screenshot Capturer\ScreenshotCapturer\bin\Debug\ScreenshotCapturer.exe
+C:\Users\armin\Downloads\Screenshot Capturer\ScreenshotCapturer\bin\Debug\ScreenshotCapturer.pdb
+C:\Users\armin\Downloads\Screenshot Capturer\ScreenshotCapturer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\armin\Downloads\Screenshot Capturer\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.Form1.resources
+C:\Users\armin\Downloads\Screenshot Capturer\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.Properties.Resources.resources
+C:\Users\armin\Downloads\Screenshot Capturer\ScreenshotCapturer\obj\Debug\ResGen.read.1.tlog
+C:\Users\armin\Downloads\Screenshot Capturer\ScreenshotCapturer\obj\Debug\ResGen.write.1.tlog
+C:\Users\armin\Desktop\9. screenshot capture\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.exe
+C:\Users\armin\Desktop\9. screenshot capture\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.pdb
+C:\Users\Саша\YandexDisk\Документы\!it step work\все уроки\5. WinForms\6. rich text box, list view, tree view\other examples\6. screenshot capture\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.exe
+C:\Users\Саша\YandexDisk\Документы\!it step work\все уроки\5. WinForms\6. rich text box, list view, tree view\other examples\6. screenshot capture\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.pdb
+C:\Users\Саша\YandexDisk\Документы\!it step work\все уроки\5. WinForms\6. rich text box, list view, tree view\other examples\6. screenshot capture\ScreenshotCapturer\bin\Debug\ScreenshotCapturer.exe
+C:\Users\Саша\YandexDisk\Документы\!it step work\все уроки\5. WinForms\6. rich text box, list view, tree view\other examples\6. screenshot capture\ScreenshotCapturer\bin\Debug\ScreenshotCapturer.pdb
+C:\Users\Саша\YandexDisk\Документы\!it step work\все уроки\5. WinForms\6. rich text box, list view, tree view\other examples\6. screenshot capture\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.csprojResolveAssemblyReference.cache
+C:\Users\Саша\YandexDisk\Документы\!it step work\все уроки\5. WinForms\6. rich text box, list view, tree view\other examples\6. screenshot capture\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.Form1.resources
+C:\Users\Саша\YandexDisk\Документы\!it step work\все уроки\5. WinForms\6. rich text box, list view, tree view\other examples\6. screenshot capture\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.Properties.Resources.resources
+C:\Users\Саша\YandexDisk\Документы\!it step work\все уроки\5. WinForms\6. rich text box, list view, tree view\other examples\6. screenshot capture\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.csproj.GenerateResource.Cache
+C:\Users\Mcintosh\Downloads\7 - screenshot maker\ScreenshotCapturer\bin\Debug\ScreenshotCapturer.exe
+C:\Users\Mcintosh\Downloads\7 - screenshot maker\ScreenshotCapturer\bin\Debug\ScreenshotCapturer.pdb
+C:\Users\Mcintosh\Downloads\7 - screenshot maker\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\7 - screenshot maker\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.Properties.Resources.resources
+C:\Users\Mcintosh\Downloads\7 - screenshot maker\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.csproj.GenerateResource.cache
+C:\Users\Mcintosh\Downloads\7 - screenshot maker\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\7 - screenshot maker\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.exe
+C:\Users\Mcintosh\Downloads\7 - screenshot maker\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.pdb
+C:\Users\Mcintosh\Downloads\7 - screenshot maker\ScreenshotCapturer\obj\Debug\ScreenshotCapturer.Home.resources
